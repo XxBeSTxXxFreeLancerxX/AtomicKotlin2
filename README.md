@@ -1,2 +1,5 @@
 # AtomicKotlin2
- My project following along with the Atomic Kotlin book
+ My project following along with the Atomic Kotlin book, Which is a great book. You should get the ebook if your thinking about learning kotlin.
+ But these are the pratices, and testing files from that book. they have a interactive course that follows along with the book on JetBrain. Just download their pro, EDU, or community edition, and open these files using jetbrains, and you should be able to view them.
+
+ Or if you want to do your own projects. then download the ebook of Atomic Kotlin at AtomicKotlin.com or from whereever you get your ebooks, and if your a student you get jetbrains academy for free for so many months, but anyone can sign up for a free trial. and JetBrains is the company that made Kotlin. and then you can read the book, and follow along with the course to. and the cool thing is, that the course can be taken with or without internet, which you download it from jetbrains academy, and get everything set up, you only ever have to do this once on any of the 100s of projects they offer. It's awesome cause i don't always have access to internet, so when i don't i can see work on my course, and other projects like in python courses im taking.
